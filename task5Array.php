@@ -7,8 +7,7 @@
                     "Sweden"=>"Stockholm", "United Kingdom"=>"London", "Cyprus"=>"Nicosia",
                     "Lithuania"=>"Vilnius", "Czech Republic"=>"Prague", "Estonia"=>"Tallin",
                     "Hungary"=>"Budapest", "Latvia"=>"Riga", "Malta"=>"Valetta", 
-                    "Austria" => "Vienna", "Poland"=>"Warsaw") ;
-    $sortedarray = 
+                    "Austria" => "Vienna", "Poland"=>"Warsaw");
 
     asort($array);
     // print_r($array);
